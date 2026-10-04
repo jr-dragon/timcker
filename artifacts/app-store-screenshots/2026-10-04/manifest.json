@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-04",
+  "locale": "zh-TW",
+  "appearance": "light",
+  "bundle_id": "net.chivincent.timcker",
+  "app_version": "1.0.0",
+  "build_number": "1",
+  "runtime": "iOS / iPadOS 27.0 (24A434)",
+  "capture": "Original simulator framebuffers via xcrun simctl io screenshot; no resizing or cropping. Opaque alpha channel removed losslessly for upload.",
+  "devices": [
+    "iPhone 11 Pro Max",
+    "iPhone 13 Pro Max",
+    "iPad Pro 13-inch (M5)",
+    "iPad Pro 12.9-inch (6th generation)"
+  ],
+  "counter": 8,
+  "scrolling_before_capture": false,
+  "source_sha256": "dfba3763b01e653d56d7e634929f0590979b4f4874adf6be7667e8a49395bf84",
+  "screenshots": [
+    {
+      "file": "png/ipad-2048x2732-portrait.png",
+      "width": 2048,
+      "height": 2732,
+      "mode": "RGB",
+      "sha256": "8164cc08437be0c65a572f873158ff1719db389c4679e225b2e6104593f1285b"
+    },
+    {
+      "file": "png/ipad-2064x2752-portrait.png",
+      "width": 2064,
+      "height": 2752,
+      "mode": "RGB",
+      "sha256": "5ece252be0a07fc139d7a1b2818bf8cf6be3d7df56678e5a83529a9099ee671d"
+    },
+    {
+      "file": "png/ipad-2732x2048-landscape.png",
+      "width": 2732,
+      "height": 2048,
+      "mode": "RGB",
+      "sha256": "2972a28bad2901c9f19e23947eaaa6e395ece5a4c127755be59f0c13968ffca2"
+    },
+    {
+      "file": "png/ipad-2752x2064-landscape.png",
+      "width": 2752,
+      "height": 2064,
+      "mode": "RGB",
+      "sha256": "e2f30e8c6aa8b8e22ce25cf63af26696911722743a5e8b42a3d143fb99849303"
+    },
+    {
+      "file": "png/iphone-1242x2688-portrait.png",
+      "width": 1242,
+      "height": 2688,
+      "mode": "RGB",
+      "sha256": "ce638e79aef19bda9cc8c46910b552900e4e3ff9f0ce74a4f47171f6270b1420"
+    },
+    {
+      "file": "png/iphone-1284x2778-portrait.png",
+      "width": 1284,
+      "height": 2778,
+      "mode": "RGB",
+      "sha256": "b0e614b3d04cce7a9bc50d85be83e3371cf97dcdc2c86fb4446f9525371fcc4b"
+    },
+    {
+      "file": "png/iphone-2688x1242-landscape.png",
+      "width": 2688,
+      "height": 1242,
+      "mode": "RGB",
+      "sha256": "4993958f5113d5d5e57cb7ee959d423e260e3b1826cc8de82859a28004f9f96f"
+    },
+    {
+      "file": "png/iphone-2778x1284-landscape.png",
+      "width": 2778,
+      "height": 1284,
+      "mode": "RGB",
+      "sha256": "e14937e2d3e5a46b35ae980bc956309acf677d3d3e16d0ec439ad5648ec5d359"
+    }
+  ]
+}
